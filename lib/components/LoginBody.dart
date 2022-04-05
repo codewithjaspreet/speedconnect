@@ -46,6 +46,9 @@ class LoginBody extends StatelessWidget {
             text: 'LOGIN',
             press: () {},
           ),
+          SizedBox(
+            height: size.height * 0.03,
+          ),
           AlreadyAccountCheck(
             press: () {},
           )
