@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:speedconnect/Screens/welcome_screen.dart';
 import 'package:speedconnect/constants.dart';
+
+import 'Screens/Welcome/welcome_screen.dart';
 
 void main() => runApp(SpeedConnect());
 
