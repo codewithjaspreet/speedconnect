@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:speedconnect/components/RoundedButton.dart';
 import 'package:speedconnect/constants.dart';
 
+import 'AlreadyHaveAccountCheck.dart';
 import 'LoginBodyBackground.dart';
 import 'RoundedEmailButton.dart';
 import 'RoundedPasswordButton.dart';
@@ -39,6 +41,13 @@ class LoginBody extends StatelessWidget {
           ),
           RoundedPasswordButton(
             onChanged: (value) {},
+          ),
+          RoundedButton(
+            text: 'LOGIN',
+            press: () {},
+          ),
+          AlreadyAccountCheck(
+            press: () {},
           )
         ],
       ),
