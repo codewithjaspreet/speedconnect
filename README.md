@@ -4,7 +4,8 @@ Chat Application with an Awesome Ui Designing
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Below are the Welcome  , Sign up & Login Screen for your next application !
+
 
 A few resources to get you started if this is your first Flutter project:
 
